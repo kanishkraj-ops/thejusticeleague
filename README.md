@@ -35,7 +35,7 @@ justice-league-html-css/
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/justice-league-html-css.git
+   git clone https://github.com/kanishkraj-ops/thejusticeleague.git
    ```
 2. Open `index.html` in your browser.  
 3. Enjoy the Justice League vibes ⚡
